@@ -8,5 +8,11 @@ public class Program1 {
 		
 
 	}
+	public void ma() {
+		System.out.println("Mallick");
+	}
+	public void ma1() {
+		System.out.println("Mallick");
+	}
 
 }
